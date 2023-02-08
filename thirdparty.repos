@@ -1,0 +1,9 @@
+repositories:
+  ../ThirdParty/usb_cam:
+    type: git
+    url: https://github.com/Juancams/usb_cam
+    version: ros2
+  ../ThirdParty/DynamixelSDK:
+    type: git
+    url: https://github.com/Juancams/DynamixelSDK.git
+    version: humble-devel
